@@ -1,8 +1,18 @@
-blank_issues_enabled: false
-contact_links:
-  - name: ❓ Ask a Question
-    url: https://github.com/alshedivat/al-folio/discussions/categories/q-a
-    about: Ask and answer al-folio related questions.
-  - name: 📖 Read the documentation
-    url: https://github.com/alshedivat/al-folio/blob/main/README.md
-    about: Please consult the documentation before opening any issues!
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+title: Mu'ath Yousef Portfolio
+first_name: Mu'ath
+middle_name: A M
+last_name: Yousef
+email: muath_yousef@outlook.com  
+description: Cybersecurity Solutions Engineer & SOC Analyst.
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
+
+# -----------------------------------------------------------------------------
+# URL settings
+# -----------------------------------------------------------------------------
+url: "https://Muath-Yousef.github.io"
+baseurl: ""  # اترك هذه فارغة تماماً كما هي لأن موقعك هو المستودع الرئيسي
